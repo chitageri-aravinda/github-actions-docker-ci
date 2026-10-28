@@ -1,6 +1,6 @@
 # github-actions-docker-ci
 
-[![CI](https://github.com/Aravinda-07/github-actions-docker-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/Aravinda-07/github-actions-docker-ci/actions/workflows/ci.yml)
+[![CI](https://github.com/chitageri-aravinda/github-actions-docker-ci/actions/workflows/ci.yml/badge.svg)](https://github.com/chitageri-aravinda/github-actions-docker-ci/actions/workflows/ci.yml)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
